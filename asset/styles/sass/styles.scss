@@ -1,6 +1,6 @@
 @import "variables";
 @import "mixins";
-@import url(asset/styles/fonts/fonts.css);
+@import url(../fonts/fonts.css);
 @keyframes comeAndGomf {
   0% {
     transform: translate(0, 0) rotate(360deg);

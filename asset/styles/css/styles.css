@@ -1,4 +1,4 @@
-@import url(sina);
+@import url(../fonts/fonts.css);
 @keyframes comeAndGomf {
   0% {
     transform: translate(0, 0) rotate(360deg); }
